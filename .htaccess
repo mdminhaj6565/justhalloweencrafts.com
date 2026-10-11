@@ -1,0 +1,104 @@
+# ------------------------------------------------------------------
+# justhalloweencrafts.com - Apache / LiteSpeed (Hostinger) settings
+# Clean URLs, legacy Blogger redirects, caching and security headers.
+# Force HTTPS is handled by the hosting panel (Hostinger > SSL > Force HTTPS).
+# ------------------------------------------------------------------
+
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
+AddType application/manifest+json .webmanifest
+AddType image/webp .webp
+AddType font/woff2 .woff2
+
+<IfModule mod_dir.c>
+  DirectorySlash Off
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+
+# Build sources are not part of the public site
+RewriteRule ^(_build|\.git)(/|$) - [F,L,NC]
+RewriteRule ^README\.md$ - [F,L,NC]
+
+# 1) One canonical host: justhalloweencrafts.com -> www (single hop, keeps path)
+RewriteCond %{HTTP_HOST} ^justhalloweencrafts\.com$ [NC]
+RewriteRule ^(.*)$ https://www.justhalloweencrafts.com/$1 [R=301,L]
+
+# 2) Old Blogger feeds: main feed -> new RSS feed, everything else is gone
+RewriteRule ^feeds/posts/default/?$ https://www.justhalloweencrafts.com/feed.xml? [R=301,L,NC]
+RewriteRule ^feeds/ - [G,L,NC]
+
+# 3) Old Blogger search and paging URLs -> blog
+RewriteRule ^search/?$ https://www.justhalloweencrafts.com/blog? [R=301,L,NC]
+
+# 4) Label URLs with spaces (/search/label/Free Printables) -> no spaces
+RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)\s+([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencrafts.com/search/label/$1$2$3$4? [R=301,L]
+RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencrafts.com/search/label/$1$2$3? [R=301,L]
+RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencrafts.com/search/label/$1$2? [R=301,L]
+# label pages with Blogger paging parameters
+RewriteCond %{QUERY_STRING} .
+RewriteRule ^search/label/([A-Za-z]+)/?$ https://www.justhalloweencrafts.com/search/label/$1? [R=301,L]
+
+# 5) Mirror leftovers: _m-1 and _spref-pi suffixes on post URLs
+RewriteRule ^(\d{4}/\d{2}/[A-Za-z0-9-]+?)(?:_m-1|[-_]spref-pi)+(?:\.html)?/?$ https://www.justhalloweencrafts.com/$1? [R=301,L,NC]
+
+# 6) index.html -> /
+RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
+RewriteRule ^ https://www.justhalloweencrafts.com/? [R=301,L]
+
+# 7) Old .html URLs -> clean URLs (only when the visitor asked for .html)
+RewriteCond %{THE_REQUEST} \s/+([^\s?]+?)\.html[\s?] [NC]
+RewriteRule ^ https://www.justhalloweencrafts.com/%1? [R=301,L]
+
+# 8) Trailing slash -> no trailing slash (e.g. /2015/07/ -> /2015/07)
+RewriteCond %{REQUEST_URI} !^/$
+RewriteRule ^(.+)/$ https://www.justhalloweencrafts.com/$1? [R=301,L]
+
+# 9) Blogger mobile parameter ?m=1 / ?m=0
+RewriteCond %{QUERY_STRING} (^|&)m=[01](&|$) [NC]
+RewriteRule ^(.*)$ https://www.justhalloweencrafts.com/$1? [R=301,L]
+
+# 10) Serve clean URLs from .html files (internal, no redirect)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)$ $1.html [L]
+</IfModule>
+
+# Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/javascript application/json application/xml text/xml application/rss+xml image/svg+xml application/manifest+json
+</IfModule>
+
+# Browser caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 1 hour"
+  ExpiresByType application/xml "access plus 1 hour"
+  ExpiresByType application/rss+xml "access plus 1 hour"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 month"
+</IfModule>
+
+# Security headers
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  <FilesMatch "\.(css|js|woff2|jpe?g|png|gif|webp|svg)$">
+    Header set Cache-Control "public, max-age=31536000"
+  </FilesMatch>
+</IfModule>
