@@ -20,8 +20,8 @@ AddType font/woff2 .woff2
 RewriteEngine On
 RewriteBase /
 
-# Build sources are not part of the public site
-RewriteRule ^(_build|\.git)(/|$) - [F,L,NC]
+# Build sources and Search Console data files are not part of the public site
+RewriteRule ^(_build|\.git|data)(/|$) - [F,L,NC]
 RewriteRule ^README\.md$ - [F,L,NC]
 
 # 1) Old Blogger feeds: main feed -> new RSS feed, everything else is gone
