@@ -159,6 +159,61 @@ for p in posts + pages:
     p['body'] = strip_comment_prompts(p['body'])
     p['words'] = words_of(p['body'])
 
+# ---------------------------------------------------------------- entities (about / mentions)
+def load_entities():
+    """Rows of _build/entity-map.md: (name, [match words], wikipedia url or '')."""
+    path = os.path.join(SRC, 'entity-map.md')
+    out = []
+    if not os.path.exists(path):
+        return out
+    for line in open(path, encoding='utf-8'):
+        cells = [c.strip() for c in line.strip().strip('|').split('|')]
+        if len(cells) != 3 or cells[0] in ('Entity', '---') or set(cells[0]) <= set('-: '):
+            continue
+        words = [w.strip().lower() for w in cells[1].split(',') if w.strip()]
+        out.append((cells[0], words, cells[2]))
+    return out
+
+
+ENTITIES = load_entities()
+
+
+def entity_ref(name, url):
+    e = {'@type': 'Thing', 'name': name}
+    if url:
+        e['sameAs'] = url
+    return e
+
+
+def find_entities(post):
+    """Primary entity = the one named first in the H1 (Halloween only when nothing else is);
+    mentions = up to six other entities that appear in the article text, most frequent first."""
+    def pattern(words):
+        return re.compile(r"(?<![\w-])(?:" + '|'.join(re.escape(w) for w in words) + r")(?![\w-])", re.I)
+    h1 = post['h1']
+    text = BeautifulSoup(post['body'], 'html.parser').get_text(' ', strip=True)
+    first, counts = [], []
+    for name, words, url in ENTITIES:
+        if not words:
+            continue
+        rx = pattern(words)
+        m = rx.search(h1)
+        if m:
+            first.append((m.start(), name == 'Halloween', name, url))
+        n = len(rx.findall(text))
+        if n:
+            counts.append((n, name, url))
+    first.sort(key=lambda t: (t[1], t[0]))
+    about = [entity_ref(n, u) for _, _, n, u in first[:1]]
+    taken = {e['name'] for e in about}
+    counts.sort(key=lambda t: -t[0])
+    mentions = [entity_ref(n, u) for _, n, u in counts if n not in taken][:6]
+    return about, mentions
+
+
+for p in posts:
+    p['about'], p['mentions'] = find_entities(p)
+
 posts.sort(key=lambda x: x['pub'], reverse=True)
 by_url = {p['url']: p for p in posts}
 for sl, lab in labels.items():
@@ -512,7 +567,9 @@ def build_post(p):
          'author': ({'@type': 'Person', 'name': p['author'], 'url': SITE + '/p/about-marie'} if 'Johnstone' in p['author']
                     else {'@type': 'Organization', 'name': NAME, 'url': SITE + '/'}),
          'publisher': {'@id': SITE + '/#org'},
-         'articleSection': p['label_names'][:3] if p.get('label_names') else []},
+         'articleSection': p['label_names'][:3] if p.get('label_names') else [],
+         **({'about': p['about']} if p.get('about') else {}),
+         **({'mentions': p['mentions']} if p.get('mentions') else {})},
         breadcrumb_schema(crumbs), org_schema()]}
     extra = (f'<meta property="article:published_time" content="{iso(p["pub"])}">\n'
              f'<meta property="article:modified_time" content="{iso(p["mod"])}">')
