@@ -24,18 +24,14 @@ RewriteBase /
 RewriteRule ^(_build|\.git)(/|$) - [F,L,NC]
 RewriteRule ^README\.md$ - [F,L,NC]
 
-# 1) One canonical host: justhalloweencrafts.com -> www (single hop, keeps path)
-RewriteCond %{HTTP_HOST} ^justhalloweencrafts\.com$ [NC]
-RewriteRule ^(.*)$ https://www.justhalloweencrafts.com/$1 [R=301,L]
-
-# 2) Old Blogger feeds: main feed -> new RSS feed, everything else is gone
+# 1) Old Blogger feeds: main feed -> new RSS feed, everything else is gone
 RewriteRule ^feeds/posts/default/?$ https://www.justhalloweencrafts.com/feed.xml? [R=301,L,NC]
 RewriteRule ^feeds/ - [G,L,NC]
 
-# 3) Old Blogger search and paging URLs -> blog
+# 2) Old Blogger search and paging URLs -> blog
 RewriteRule ^search/?$ https://www.justhalloweencrafts.com/blog? [R=301,L,NC]
 
-# 4) Label URLs with spaces (/search/label/Free Printables) -> no spaces
+# 3) Label URLs with spaces (/search/label/Free Printables) -> no spaces
 RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)\s+([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencrafts.com/search/label/$1$2$3$4? [R=301,L]
 RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencrafts.com/search/label/$1$2$3? [R=301,L]
 RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencrafts.com/search/label/$1$2? [R=301,L]
@@ -43,24 +39,29 @@ RewriteRule ^search/label/([^\s/]+)\s+([^\s/]+)/?$ https://www.justhalloweencraf
 RewriteCond %{QUERY_STRING} .
 RewriteRule ^search/label/([A-Za-z]+)/?$ https://www.justhalloweencrafts.com/search/label/$1? [R=301,L]
 
-# 5) Mirror leftovers: _m-1 and _spref-pi suffixes on post URLs
+# 4) Mirror leftovers: _m-1 and _spref-pi suffixes on post URLs
 RewriteRule ^(\d{4}/\d{2}/[A-Za-z0-9-]+?)(?:_m-1|[-_]spref-pi)+(?:\.html)?/?$ https://www.justhalloweencrafts.com/$1? [R=301,L,NC]
 
-# 6) index.html -> /
+# 5) index.html -> /
 RewriteCond %{THE_REQUEST} \s/+index\.html[\s?] [NC]
 RewriteRule ^ https://www.justhalloweencrafts.com/? [R=301,L]
 
-# 7) Old .html URLs -> clean URLs (only when the visitor asked for .html)
+# 6) Old .html URLs -> clean URLs (only when the visitor asked for .html)
 RewriteCond %{THE_REQUEST} \s/+([^\s?]+?)\.html[\s?] [NC]
 RewriteRule ^ https://www.justhalloweencrafts.com/%1? [R=301,L]
 
-# 8) Trailing slash -> no trailing slash (e.g. /2015/07/ -> /2015/07)
+# 7) Trailing slash -> no trailing slash (e.g. /2015/07/ -> /2015/07)
 RewriteCond %{REQUEST_URI} !^/$
 RewriteRule ^(.+)/$ https://www.justhalloweencrafts.com/$1? [R=301,L]
 
-# 9) Blogger mobile parameter ?m=1 / ?m=0
+# 8) Blogger mobile parameter ?m=1 / ?m=0
 RewriteCond %{QUERY_STRING} (^|&)m=[01](&|$) [NC]
 RewriteRule ^(.*)$ https://www.justhalloweencrafts.com/$1? [R=301,L]
+
+# 9) One canonical host: justhalloweencrafts.com -> www. The legacy rules above
+#     already send old URLs straight to https://www..., so every redirect is one hop.
+RewriteCond %{HTTP_HOST} ^justhalloweencrafts\.com$ [NC]
+RewriteRule ^(.*)$ https://www.justhalloweencrafts.com/$1 [R=301,L]
 
 # 10) Serve clean URLs from .html files (internal, no redirect)
 RewriteCond %{REQUEST_FILENAME} !-f
