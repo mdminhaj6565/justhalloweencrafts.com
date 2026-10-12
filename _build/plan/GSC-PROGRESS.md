@@ -21,3 +21,4 @@ removes each one from this list once Search Console shows "Indexing requested".
 - /2018/12/perler-bead-spider-web (updated 12 Oct)
 - /2017/11/hobbit-feet-cookies (updated 12 Oct)
 - /2015/06/savory-halloween-appetizers-and-party (updated 12 Oct)
+- /2015/08/how-to-sew-cloak-without-pattern (updated 12 Oct, after its indexing request)
