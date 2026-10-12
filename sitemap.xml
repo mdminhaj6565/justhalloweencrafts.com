@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-10-11</lastmod>
+  <lastmod>2026-10-12</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-10-11</lastmod>
+  <lastmod>2026-10-12</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/10/edible-halloween-crafts</loc>
+  <lastmod>2026-10-12</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-10-edible-halloween-crafts.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/how-to-store-halloween-decorations</loc>
@@ -856,7 +861,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftsforKids</loc>
-  <lastmod>2026-10-11</lastmod>
+  <lastmod>2026-10-12</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CutoutsandSilhouettes</loc>
@@ -880,7 +885,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/HalloweenFood</loc>
-  <lastmod>2026-10-07</lastmod>
+  <lastmod>2026-10-12</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/HangingDecorations</loc>
