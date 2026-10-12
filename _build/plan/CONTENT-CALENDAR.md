@@ -61,6 +61,9 @@
 | R8 | planned | /2015/04/sugar-skull-perler-beads-pattern | Search Console demand (numbers in the report doc) | Title/description, pattern size, color guide |
 | R9 | planned | /2016/09/free-no-trick-treating-signs | Search Console demand (numbers in the report doc) | Usage tips, printing tips, FAQ |
 | R10 | planned | /2016/09/quick-easy-halloween-cupcake-ideas | Search Console demand (numbers in the report doc) | More ideas, decorating tips |
+| R11 | planned (after 2026-11-08) | /2016/02/severus-snape-quotes-for-halloween | Many impressions, low CTR (numbers in the report doc) | Retest title and description for "snape quotes" / "snape lines" once the 28-day lock ends |
+| R12 | planned (after 2026-11-08) | /2016/03/luna-lovegood-quotes-books-harry-potter | Low CTR on "luna lovegood lines" / "luna quotes" | Retest title and description once the 28-day lock ends |
+| R13 | planned | /2016/05/halloween-foam-craft-kits-kids | "halloween foam craft kits" ranks just below the top results | Title/description, what to look for in a kit, FAQ |
 
 ## Title/description change log
 
