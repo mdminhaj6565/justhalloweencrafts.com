@@ -22,9 +22,9 @@
 | 3 | 2026-10-17 | planned | DIY Cardboard Tombstones for a Halloween Graveyard | diy cardboard tombstones | Search Console: "halloween party tombstone cutouts"; seasonal decor | Decorations, Papercraft, CraftTutorial | diy-cardboard-tombstones |
 | 4 | 2026-10-19 | planned | How to Make Fake Blood for Costumes (Washable Kitchen Recipe) | how to make fake blood | Costume week; pairs with zombie posts | CostumeAccessories, Zombies | how-to-make-fake-blood |
 | 5 | 2026-10-21 | planned | Last-Minute DIY Halloween Costumes from Things You Already Have | last minute diy halloween costumes | Last 10 days before Halloween; links to hat, broom, cloak, wand posts | CostumeAccessories, Witches, Wizards | last-minute-diy-halloween-costumes |
-| 6 | 2026-10-23 | planned | Edible Halloween Crafts Kids Can Make (and Eat) | edible halloween crafts | Search Console: "edible halloween crafts" ranks below the top results, "halloween food crafts" ranks below the top results | HalloweenFood, CraftsforKids | edible-halloween-crafts |
+| 6 | 2026-10-23 | published 2026-10-12 (/2026/10/edible-halloween-crafts, ~1,500 words; pulled forward by the Search Console run) | Edible Halloween Crafts Kids Can Make (and Eat) | edible halloween crafts | Search Console: "edible halloween crafts" ranks below the top results, "halloween food crafts" ranks below the top results | HalloweenFood, CraftsforKids | edible-halloween-crafts |
 | 7 | 2026-10-25 | planned | Day of the Dead Crafts: Paper Marigolds, Papel Picado and Paper Skulls | day of the dead crafts | 1–2 Nov timing; site has sugar skull pattern. Respectful, explain the tradition briefly | SkeletonsandSkulls, Papercraft, CraftsforKids | day-of-the-dead-crafts |
-| 8 | 2026-10-27 | planned | Free Printable Halloween Crafts: Templates, Silhouettes and Labels | halloween crafts printable | Search Console: "halloween crafts printable pdf" ranks below the top results, "halloween crafts printables" ranks below the top results; hub linking every printable on the site | FreePrintables, CutoutsandSilhouettes | free-printable-halloween-crafts |
+| 8 | 2026-10-27 | published 2026-10-12 (/2026/10/free-printable-halloween-crafts, ~1,200 words; pulled forward by the Search Console run) | Free Printable Halloween Crafts: Templates, Silhouettes and Labels | halloween crafts printable | Search Console: "halloween crafts printable pdf" ranks below the top results, "halloween crafts printables" ranks below the top results; hub linking every printable on the site | FreePrintables, CutoutsandSilhouettes | free-printable-halloween-crafts |
 | 9 | 2026-10-29 | planned | How to Make a Sheet Ghost Costume That Stays Put | sheet ghost costume | Last-minute costume; practical fixes (eye holes, slipping, visibility) | CostumeAccessories, CraftTutorial | sheet-ghost-costume |
 | 10 | 2026-11-01 | planned | What to Do With Pumpkins After Halloween: Practical Ideas | what to do with pumpkins after halloween | Day after Halloween; compost, seeds, wildlife-safe advice | Pumpkins | what-to-do-with-pumpkins-after-halloween |
 | 11 | 2026-11-04 | planned | How to Fasten a Cloak or Cape: Ties, Clasps and Frog Closures | how to attach a cape | Search Console: "how to attach a cape" ranks below the top results, "how to tie a cloak with hood" ranks below the top results | CostumeAccessories, FeltandFabricCrafts | how-to-fasten-a-cloak-or-cape |
@@ -51,12 +51,12 @@
 
 | # | Status | Page | Why | What to improve |
 | --- | --- | --- | --- | --- |
-| R1 | planned | /2015/06/savory-halloween-appetizers-and-party | "savory halloween snacks" ranks below the top results | Retitle for "savory Halloween snacks", expand with more recipes-as-ideas, serving tips, FAQ |
-| R2 | planned | /2016/07/how-to-make-paper-spider-webs-kids-craft | Search Console demand (numbers in the report doc) | Title with "how to make a paper spider web", clearer folding steps, troubleshooting, FAQ |
+| R1 | done 2026-10-12 | /2015/06/savory-halloween-appetizers-and-party | "savory halloween snacks" ranks below the top results | Retitle for "savory Halloween snacks", expand with more recipes-as-ideas, serving tips, FAQ |
+| R2 | done 2026-10-12 | /2016/07/how-to-make-paper-spider-webs-kids-craft | Search Console demand (numbers in the report doc) | Title with "how to make a paper spider web", clearer folding steps, troubleshooting, FAQ |
 | R3 | planned | /2017/09/pumpkin-fairy-house | "pumpkin fairy house carving" ranks below the top results | Add a carving section (door, windows, tools), title with "carving" |
 | R4 | planned | /2015/06/pumpkin-trick-or-treat-bag-felt-pattern | "pumpkin bag sewing pattern" ranks below the top results | Measurements, sewing steps, lining, no-sew option |
-| R5 | planned | /2018/12/perler-bead-spider-web | Search Console demand (numbers in the report doc) | Title/description, ironing tips, variations |
-| R6 | planned | /2017/11/hobbit-feet-cookies | "cookies with feet" ranks below the top results | Title with "feet cookies", decorating tips, make-ahead notes |
+| R5 | done 2026-10-12 | /2018/12/perler-bead-spider-web | Search Console demand (numbers in the report doc) | Title/description, ironing tips, variations |
+| R6 | done 2026-10-12 | /2017/11/hobbit-feet-cookies | "cookies with feet" ranks below the top results | Title with "feet cookies", decorating tips, make-ahead notes |
 | R7 | planned | /2017/01/how-hollow-pumpkin-halloween | Search Console demand (numbers in the report doc) | Content only until 2026-11-08 (title changed 2026-10-11); then retitle if CTR still 0 |
 | R8 | planned | /2015/04/sugar-skull-perler-beads-pattern | Search Console demand (numbers in the report doc) | Title/description, pattern size, color guide |
 | R9 | planned | /2016/09/free-no-trick-treating-signs | Search Console demand (numbers in the report doc) | Usage tips, printing tips, FAQ |
@@ -69,3 +69,4 @@
 | Date | Page | Change | Re-check after |
 | --- | --- | --- | --- |
 | 2026-10-11 | Snape quotes, Luna quotes, hood for cloak, sew hood onto cape, cloak without pattern, half butterfly, crow silhouettes, Maleficent template, potion labels, Perler patterns, wire wreath, spell book, hollow pumpkin | Initial SEO rewrite (see `_build/content/overrides.json`) | 2026-11-08 |
+| 2026-10-12 | Paper spider webs, Perler bead spider web, hobbit feet cookies, savory Halloween appetizers | Title and description rewrite (Search Console run); content added to cloak without pattern (title unchanged) | 2026-11-09 |
