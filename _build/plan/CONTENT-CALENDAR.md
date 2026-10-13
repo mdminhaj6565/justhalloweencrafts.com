@@ -17,7 +17,7 @@
 
 | # | Target date | Status | Working title | Main keyword | Why (data / timing) | Labels | Slug |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-10-13 | planned | How to Make a Cloak Without Sewing (No-Sew Cloak and Hooded Cape) | how to make a cloak without sewing | Search Console: "cloak with hood without sewing" ranks below the top results, "cloak without sewing or cutting" ranks below the top results, "no sew cloak" ranks below the top results | CostumeAccessories, FeltandFabricCrafts, CraftTutorial | no-sew-cloak |
+| 1 | 2026-10-13 | published 2026-10-13 (/2026/10/no-sew-cloak, ~1,490 words) | How to Make a Cloak Without Sewing (No-Sew Cloak and Hooded Cape) | how to make a cloak without sewing | Search Console: "cloak with hood without sewing" ranks below the top results, "cloak without sewing or cutting" ranks below the top results, "no sew cloak" ranks below the top results | CostumeAccessories, FeltandFabricCrafts, CraftTutorial | no-sew-cloak |
 | 2 | 2026-10-15 | planned | How to Make a Carved Pumpkin Last Longer (What Works and What Doesn't) | how to make a carved pumpkin last longer | Peak carving week; supports the hollow-pumpkin page | Pumpkins, Decorations | how-to-make-carved-pumpkin-last-longer |
 | 3 | 2026-10-17 | planned | DIY Cardboard Tombstones for a Halloween Graveyard | diy cardboard tombstones | Search Console: "halloween party tombstone cutouts"; seasonal decor | Decorations, Papercraft, CraftTutorial | diy-cardboard-tombstones |
 | 4 | 2026-10-19 | planned | How to Make Fake Blood for Costumes (Washable Kitchen Recipe) | how to make fake blood | Costume week; pairs with zombie posts | CostumeAccessories, Zombies | how-to-make-fake-blood |
