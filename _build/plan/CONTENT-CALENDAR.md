@@ -53,12 +53,12 @@
 | --- | --- | --- | --- | --- |
 | R1 | done 2026-10-12 | /2015/06/savory-halloween-appetizers-and-party | "savory halloween snacks" ranks below the top results | Retitle for "savory Halloween snacks", expand with more recipes-as-ideas, serving tips, FAQ |
 | R2 | done 2026-10-12 | /2016/07/how-to-make-paper-spider-webs-kids-craft | Search Console demand (numbers in the report doc) | Title with "how to make a paper spider web", clearer folding steps, troubleshooting, FAQ |
-| R3 | planned | /2017/09/pumpkin-fairy-house | "pumpkin fairy house carving" ranks below the top results | Add a carving section (door, windows, tools), title with "carving" |
-| R4 | planned | /2015/06/pumpkin-trick-or-treat-bag-felt-pattern | "pumpkin bag sewing pattern" ranks below the top results | Measurements, sewing steps, lining, no-sew option |
+| R3 | done 2026-10-15 | /2017/09/pumpkin-fairy-house | "pumpkin fairy house carving" ranks below the top results | Add a carving section (door, windows, tools), title with "carving" |
+| R4 | done 2026-10-15 | /2015/06/pumpkin-trick-or-treat-bag-felt-pattern | "pumpkin bag sewing pattern" ranks below the top results | Measurements, sewing steps, lining, no-sew option |
 | R5 | done 2026-10-12 | /2018/12/perler-bead-spider-web | Search Console demand (numbers in the report doc) | Title/description, ironing tips, variations |
 | R6 | done 2026-10-12 | /2017/11/hobbit-feet-cookies | "cookies with feet" ranks below the top results | Title with "feet cookies", decorating tips, make-ahead notes |
 | R7 | planned | /2017/01/how-hollow-pumpkin-halloween | Search Console demand (numbers in the report doc) | Content only until 2026-11-08 (title changed 2026-10-11); then retitle if CTR still 0 |
-| R8 | planned | /2015/04/sugar-skull-perler-beads-pattern | Search Console demand (numbers in the report doc) | Title/description, pattern size, color guide |
+| R8 | done 2026-10-15 | /2015/04/sugar-skull-perler-beads-pattern | Search Console demand (numbers in the report doc) | Title/description, pattern size, color guide |
 | R9 | planned | /2016/09/free-no-trick-treating-signs | Search Console demand (numbers in the report doc) | Usage tips, printing tips, FAQ |
 | R10 | planned | /2016/09/quick-easy-halloween-cupcake-ideas | Search Console demand (numbers in the report doc) | More ideas, decorating tips |
 | R11 | planned (after 2026-11-08) | /2016/02/severus-snape-quotes-for-halloween | Many impressions, low CTR (numbers in the report doc) | Retest title and description for "snape quotes" / "snape lines" once the 28-day lock ends |
@@ -73,3 +73,4 @@
 | --- | --- | --- | --- |
 | 2026-10-11 | Snape quotes, Luna quotes, hood for cloak, sew hood onto cape, cloak without pattern, half butterfly, crow silhouettes, Maleficent template, potion labels, Perler patterns, wire wreath, spell book, hollow pumpkin | Initial SEO rewrite (see `_build/content/overrides.json`) | 2026-11-08 |
 | 2026-10-12 | Paper spider webs, Perler bead spider web, hobbit feet cookies, savory Halloween appetizers | Title and description rewrite (Search Console run); content added to cloak without pattern (title unchanged) | 2026-11-09 |
+| 2026-10-15 | Pumpkin trick or treat bag, pumpkin fairy house, sugar skull Perler pattern | Title and description rewrite (Search Console run); content added to wire wreath frame and hood onto cape (titles unchanged) | 2026-11-12 |
