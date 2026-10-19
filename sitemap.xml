@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-10-17</lastmod>
+  <lastmod>2026-10-19</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-10-17</lastmod>
+  <lastmod>2026-10-19</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/10/how-to-make-fake-blood</loc>
+  <lastmod>2026-10-19</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-10-how-to-make-fake-blood.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/diy-cardboard-tombstones</loc>
@@ -879,7 +884,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CostumeAccessories</loc>
-  <lastmod>2026-10-15</lastmod>
+  <lastmod>2026-10-19</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftKits</loc>
@@ -975,7 +980,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Zombies</loc>
-  <lastmod>2019-08-11</lastmod>
+  <lastmod>2026-10-19</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/p/about-marie</loc>
