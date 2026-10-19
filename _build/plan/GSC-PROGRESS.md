@@ -29,3 +29,6 @@ removes each one from this list once Search Console shows "Indexing requested".
 - /2015/04/sugar-skull-perler-beads-pattern (updated 15 Oct)
 - /2015/11/how-to-make-wire-wreath-frame-from (updated 15 Oct)
 - /2015/07/how-to-sew-hood-onto-cape (updated 15 Oct)
+- /2026/10/how-to-make-a-hooded-cloak (new 19 Oct)
+- /2016/05/halloween-foam-craft-kits-kids (updated 19 Oct)
+- /2016/01/how-to-make-hood-for-cloak-or-cape (updated 19 Oct)

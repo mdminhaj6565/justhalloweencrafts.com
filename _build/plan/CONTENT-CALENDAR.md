@@ -46,6 +46,7 @@
 | 27 | 2026-12-22 | planned | How to Make a Fleece Hooded Cape (No Hemming) | fleece hooded cape diy | Winter + cloak cluster | CostumeAccessories, FeltandFabricCrafts | fleece-hooded-cape |
 | 28 | 2026-12-25 | planned | Spiderweb Paper Snowflakes: A Spooky Winter Craft | spiderweb paper snowflakes | Paper spider web page has | Papercraft, Spiders, CraftsforKids | spiderweb-paper-snowflakes |
 | 29 | 2026-12-28 | planned | Halloween Crafts by Age: Ideas for Toddlers to Teens | halloween crafts by age | Hub page; strong internal links to kids posts | CraftsforKids | halloween-crafts-by-age |
+| 30 | 2026-10-19 | published 2026-10-19 (/2026/10/how-to-make-a-hooded-cloak, ~1,450 words; Search Console gap, added by the 19 Oct run) | How to Make a Hooded Cloak (Step-by-Step Sewing Guide) | how to make a hooded cloak | Search Console: "how to sew a cloak with a hood", "how to make a hooded cloak", "how to sew a hooded cloak" rank below the top results with no dedicated page | CostumeAccessories, FeltandFabricCrafts, CraftTutorial | how-to-make-a-hooded-cloak |
 
 ## Refresh queue (পুরোনো page আপডেট — প্রতি বৃহস্পতিবারের Search Console run-এ ১টি)
 
@@ -63,7 +64,7 @@
 | R10 | planned | /2016/09/quick-easy-halloween-cupcake-ideas | Search Console demand (numbers in the report doc) | More ideas, decorating tips |
 | R11 | planned (after 2026-11-08) | /2016/02/severus-snape-quotes-for-halloween | Many impressions, low CTR (numbers in the report doc) | Retest title and description for "snape quotes" / "snape lines" once the 28-day lock ends |
 | R12 | planned (after 2026-11-08) | /2016/03/luna-lovegood-quotes-books-harry-potter | Low CTR on "luna lovegood lines" / "luna quotes" | Retest title and description once the 28-day lock ends |
-| R13 | planned | /2016/05/halloween-foam-craft-kits-kids | "halloween foam craft kits" ranks just below the top results | Title/description, what to look for in a kit, FAQ |
+| R13 | done 2026-10-19 | /2016/05/halloween-foam-craft-kits-kids | "halloween foam craft kits" ranks just below the top results | Title/description, what to look for in a kit, FAQ |
 
 ## Title/description change log
 
@@ -74,3 +75,4 @@
 | 2026-10-11 | Snape quotes, Luna quotes, hood for cloak, sew hood onto cape, cloak without pattern, half butterfly, crow silhouettes, Maleficent template, potion labels, Perler patterns, wire wreath, spell book, hollow pumpkin | Initial SEO rewrite (see `_build/content/overrides.json`) | 2026-11-08 |
 | 2026-10-12 | Paper spider webs, Perler bead spider web, hobbit feet cookies, savory Halloween appetizers | Title and description rewrite (Search Console run); content added to cloak without pattern (title unchanged) | 2026-11-09 |
 | 2026-10-15 | Pumpkin trick or treat bag, pumpkin fairy house, sugar skull Perler pattern | Title and description rewrite (Search Console run); content added to wire wreath frame and hood onto cape (titles unchanged) | 2026-11-12 |
+| 2026-10-19 | Halloween foam craft kits | Title and description rewrite (Search Console run); links to the new hooded cloak guide added to cloak without pattern, hood for cloak, hood onto cape and no-sew cloak (titles unchanged) | 2026-11-16 |
