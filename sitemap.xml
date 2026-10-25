@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-10-23</lastmod>
+  <lastmod>2026-10-25</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-10-23</lastmod>
+  <lastmod>2026-10-25</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/10/day-of-the-dead-crafts</loc>
+  <lastmod>2026-10-25</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-10-day-of-the-dead-crafts.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/last-minute-diy-halloween-costumes</loc>
@@ -906,7 +911,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftsforKids</loc>
-  <lastmod>2026-10-19</lastmod>
+  <lastmod>2026-10-25</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CutoutsandSilhouettes</loc>
@@ -942,7 +947,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Papercraft</loc>
-  <lastmod>2026-10-17</lastmod>
+  <lastmod>2026-10-25</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/PerlerBeads</loc>
@@ -962,7 +967,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/SkeletonsandSkulls</loc>
-  <lastmod>2026-10-15</lastmod>
+  <lastmod>2026-10-25</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Spiders</loc>
