@@ -6,13 +6,8 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-The daily Request indexing quota ran out on 11, 12, 15 and 19 Oct 2026. On 19 Oct, 15 URLs went through (the new hooded cloak and fake blood articles, the pages changed that day, and the oldest items of this list); the cardboard tombstones article was already on Google. The next Search Console run requests these first and removes each one from this list once Search Console shows "Indexing requested".
+The daily Request indexing quota ran out on 11, 12, 15, 19 and 26 Oct 2026. On 26 Oct, 12 URLs went through (the new wizard robe article, the five pages changed that day, the Day of the Dead article, /blog and the oldest items of this list) before Search Console answered "Quota Exceeded". The next Search Console run requests these first and removes each one from this list once Search Console shows "Indexing requested".
 
-- /blog
-- /2026/10/how-to-decorate-a-wire-wreath-frame (new 15 Oct; quota ran out on 19 Oct)
-- /2016/07/how-to-make-paper-spider-webs-kids-craft (updated 12 Oct)
-- /2018/12/perler-bead-spider-web (updated 12 Oct)
-- /2017/11/hobbit-feet-cookies (updated 12 Oct)
 - /2015/06/savory-halloween-appetizers-and-party (updated 12 Oct)
 - /2015/06/pumpkin-trick-or-treat-bag-felt-pattern (updated 15 Oct)
 - /2017/09/pumpkin-fairy-house (updated 15 Oct)
