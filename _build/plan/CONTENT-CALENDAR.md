@@ -60,11 +60,13 @@
 | R6 | done 2026-10-12 | /2017/11/hobbit-feet-cookies | "cookies with feet" ranks below the top results | Title with "feet cookies", decorating tips, make-ahead notes |
 | R7 | planned | /2017/01/how-hollow-pumpkin-halloween | Search Console demand (numbers in the report doc) | Content only until 2026-11-08 (title changed 2026-10-11); then retitle if CTR still 0 |
 | R8 | done 2026-10-15 | /2015/04/sugar-skull-perler-beads-pattern | Search Console demand (numbers in the report doc) | Title/description, pattern size, color guide |
-| R9 | planned | /2016/09/free-no-trick-treating-signs | Search Console demand (numbers in the report doc) | Usage tips, printing tips, FAQ |
+| R9 | done 2026-10-29 | /2016/09/free-no-trick-treating-signs | Search Console demand (numbers in the report doc) | Usage tips, printing tips, FAQ |
 | R10 | planned | /2016/09/quick-easy-halloween-cupcake-ideas | Search Console demand (numbers in the report doc) | More ideas, decorating tips |
 | R11 | planned (after 2026-11-08) | /2016/02/severus-snape-quotes-for-halloween | Many impressions, low CTR (numbers in the report doc) | Retest title and description for "snape quotes" / "snape lines" once the 28-day lock ends |
 | R12 | planned (after 2026-11-08) | /2016/03/luna-lovegood-quotes-books-harry-potter | Low CTR on "luna lovegood lines" / "luna quotes" | Retest title and description once the 28-day lock ends |
 | R13 | done 2026-10-19 | /2016/05/halloween-foam-craft-kits-kids | "halloween foam craft kits" ranks just below the top results | Title/description, what to look for in a kit, FAQ |
+| R14 | planned (after 2026-11-23) | /2026/10/how-to-make-fake-blood | Many impressions, low CTR; main query "how to make fake blood" ranks just below the top results (numbers in the report doc) | Retest title and description once 28 days have passed since it was published |
+| R15 | planned | /2015/11/how-to-make-wire-wreath-frame-from | "wire wreath frame" / "wire wreath base" impressions rank below the top results | Content only until 2026-11-08; then retitle toward "wire wreath frame" if CTR stays low |
 
 ## Title/description change log
 
@@ -77,3 +79,4 @@
 | 2026-10-15 | Pumpkin trick or treat bag, pumpkin fairy house, sugar skull Perler pattern | Title and description rewrite (Search Console run); content added to wire wreath frame and hood onto cape (titles unchanged) | 2026-11-12 |
 | 2026-10-19 | Halloween foam craft kits | Title and description rewrite (Search Console run); links to the new hooded cloak guide added to cloak without pattern, hood for cloak, hood onto cape and no-sew cloak (titles unchanged) | 2026-11-16 |
 | 2026-10-26 | Fake blood, best fabric for a cloak or cape, cardboard tombstones, hood for a cloak, last-minute costumes | Content only (Search Console run): new sections, FAQ and links; titles unchanged because of the 28-day rule | — |
+| 2026-10-29 | Maleficent horn headband, no trick or treating signs, zombie cookies | Title and description rewrite (Search Console run) plus quick answers, FAQ and links; content added to fake blood (fake blood that dries on fabric) and edible Halloween crafts (more Halloween food crafts), titles unchanged | 2026-11-26 |

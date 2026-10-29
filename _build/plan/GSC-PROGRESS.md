@@ -6,10 +6,4 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-The daily Request indexing quota ran out on 11, 12, 15, 19 and 26 Oct 2026. On 26 Oct, 12 URLs went through (the new wizard robe article, the five pages changed that day, the Day of the Dead article, /blog and the oldest items of this list) before Search Console answered "Quota Exceeded". The next Search Console run requests these first and removes each one from this list once Search Console shows "Indexing requested".
-
-- /2015/06/savory-halloween-appetizers-and-party (updated 12 Oct)
-- /2015/06/pumpkin-trick-or-treat-bag-felt-pattern (updated 15 Oct)
-- /2017/09/pumpkin-fairy-house (updated 15 Oct)
-- /2015/04/sugar-skull-perler-beads-pattern (updated 15 Oct)
-- /2015/11/how-to-make-wire-wreath-frame-from (updated 15 Oct)
+The daily Request indexing quota ran out on 11, 12, 15, 19 and 26 Oct 2026. On 29 Oct, all 12 requests went through: the two newest articles (sheet ghost costume, pumpkins after Halloween), the five pages changed that day and the five URLs left over from 26 Oct. Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.
