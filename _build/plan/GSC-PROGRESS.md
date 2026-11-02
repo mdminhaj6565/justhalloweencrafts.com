@@ -6,4 +6,4 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-The daily Request indexing quota ran out on 11, 12, 15, 19 and 26 Oct 2026. On 29 Oct, all 12 requests went through: the two newest articles (sheet ghost costume, pumpkins after Halloween), the five pages changed that day and the five URLs left over from 26 Oct. Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.
+On 2 Nov 2026 all 6 requests went through: the new fairytale pumpkin article and the five pages changed that day (cloak without a pattern, hooded cloak, hollow out a pumpkin, pumpkin fairy house, carved pumpkin last longer). Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.

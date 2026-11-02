@@ -47,6 +47,7 @@
 | 28 | 2026-12-25 | planned | Spiderweb Paper Snowflakes: A Spooky Winter Craft | spiderweb paper snowflakes | Paper spider web page has | Papercraft, Spiders, CraftsforKids | spiderweb-paper-snowflakes |
 | 29 | 2026-12-28 | planned | Halloween Crafts by Age: Ideas for Toddlers to Teens | halloween crafts by age | Hub page; strong internal links to kids posts | CraftsforKids | halloween-crafts-by-age |
 | 30 | 2026-10-19 | published 2026-10-19 (/2026/10/how-to-make-a-hooded-cloak, ~1,450 words; Search Console gap, added by the 19 Oct run) | How to Make a Hooded Cloak (Step-by-Step Sewing Guide) | how to make a hooded cloak | Search Console: "how to sew a cloak with a hood", "how to make a hooded cloak", "how to sew a hooded cloak" rank below the top results with no dedicated page | CostumeAccessories, FeltandFabricCrafts, CraftTutorial | how-to-make-a-hooded-cloak |
+| 31 | 2026-11-02 | published 2026-11-02 (/2026/11/can-you-carve-a-fairytale-pumpkin, ~1,560 words; Search Console gap, added by the 2 Nov run) | Can You Carve a Fairytale Pumpkin? How to Do It (and When Not To) | can you carve a fairytale pumpkin | Search Console: "fairy pumpkin carving", "can you carve fairytale pumpkins" and "can you carve a fairytale pumpkin" had impressions with no dedicated page (numbers in the report doc) | Pumpkins, Decorations | can-you-carve-a-fairytale-pumpkin |
 
 ## Refresh queue (পুরোনো page আপডেট — প্রতি বৃহস্পতিবারের Search Console run-এ ১টি)
 
@@ -66,7 +67,8 @@
 | R12 | planned (after 2026-11-08) | /2016/03/luna-lovegood-quotes-books-harry-potter | Low CTR on "luna lovegood lines" / "luna quotes" | Retest title and description once the 28-day lock ends |
 | R13 | done 2026-10-19 | /2016/05/halloween-foam-craft-kits-kids | "halloween foam craft kits" ranks just below the top results | Title/description, what to look for in a kit, FAQ |
 | R14 | planned (after 2026-11-23) | /2026/10/how-to-make-fake-blood | Many impressions, low CTR; main query "how to make fake blood" ranks just below the top results (numbers in the report doc) | Retest title and description once 28 days have passed since it was published |
-| R15 | planned | /2015/11/how-to-make-wire-wreath-frame-from | "wire wreath frame" / "wire wreath base" impressions rank below the top results | Content only until 2026-11-08; then retitle toward "wire wreath frame" if CTR stays low |
+| R15 | planned (next Search Console run) | /2015/11/how-to-make-wire-wreath-frame-from | "wire wreath frame" / "wire wreath base" impressions rank below the top results | Content only until 2026-11-08; then retitle toward "wire wreath frame" if CTR stays low |
+| R16 | planned (next Search Console run) | /2026/10/no-carve-pumpkin-decorating-ideas | Ranks just below the first page for its main query (numbers in the report doc); still relevant for autumn and Thanksgiving | Autumn/Thanksgiving section, direct answers under H2s, FAQ |
 
 ## Title/description change log
 
@@ -80,3 +82,4 @@
 | 2026-10-19 | Halloween foam craft kits | Title and description rewrite (Search Console run); links to the new hooded cloak guide added to cloak without pattern, hood for cloak, hood onto cape and no-sew cloak (titles unchanged) | 2026-11-16 |
 | 2026-10-26 | Fake blood, best fabric for a cloak or cape, cardboard tombstones, hood for a cloak, last-minute costumes | Content only (Search Console run): new sections, FAQ and links; titles unchanged because of the 28-day rule | — |
 | 2026-10-29 | Maleficent horn headband, no trick or treating signs, zombie cookies | Title and description rewrite (Search Console run) plus quick answers, FAQ and links; content added to fake blood (fake blood that dries on fabric) and edible Halloween crafts (more Halloween food crafts), titles unchanged | 2026-11-26 |
+| 2026-11-02 | Cloak without a pattern, hollow out a pumpkin, pumpkin fairy house, hooded cloak, carved pumpkin last longer | Content only (Search Console run): quick answers, FAQ, links to the new fairytale pumpkin article and the circle cloak comparison; titles unchanged because of the 28-day rule | — |
