@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-04</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-04</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/11/friday-the-13th-crafts</loc>
+  <lastmod>2026-11-04</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-11-friday-the-13th-crafts.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/11/can-you-carve-a-fairytale-pumpkin</loc>
@@ -936,15 +941,15 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftsforKids</loc>
-  <lastmod>2026-10-29</lastmod>
+  <lastmod>2026-11-04</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CutoutsandSilhouettes</loc>
-  <lastmod>2026-10-12</lastmod>
+  <lastmod>2026-11-04</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Decorations</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-04</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Fantasy</loc>
