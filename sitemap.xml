@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-11-04</lastmod>
+  <lastmod>2026-11-05</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-11-04</lastmod>
+  <lastmod>2026-11-05</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/11/how-to-make-a-pointed-hood</loc>
+  <lastmod>2026-11-05</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-11-how-to-make-a-pointed-hood.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/11/friday-the-13th-crafts</loc>
@@ -51,7 +56,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/how-to-make-a-hooded-cloak</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-10-how-to-make-a-hooded-cloak.jpg</image:loc></image:image>
  </url>
  <url>
@@ -91,7 +96,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/free-printable-halloween-crafts</loc>
-  <lastmod>2026-10-12</lastmod>
+  <lastmod>2026-11-05</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-10-free-printable-halloween-crafts.jpg</image:loc></image:image>
  </url>
  <url>
@@ -171,7 +176,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/no-carve-pumpkin-decorating-ideas</loc>
-  <lastmod>2026-10-07</lastmod>
+  <lastmod>2026-11-05</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s1600/no-carve-pumpkin-decorating-ideas.jpg</image:loc></image:image>
  </url>
  <url>
@@ -416,7 +421,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2016/01/how-to-make-hood-for-cloak-or-cape</loc>
-  <lastmod>2026-10-26</lastmod>
+  <lastmod>2026-11-05</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s400/how-make-hood-costume-cloak-cape.jpg</image:loc></image:image>
   <image:image><image:loc>https://www.justhalloweencrafts.com/img/b/R29vZ2xl/AVvXsEh7zhyfBJOk7k44zikXDXZa1iWco3ZdD1sMLE0W0YeZhCGqPYklvG6jyT9SKTrgoYR748ooNMP5FZhUbwh93q6oY_JH3UCFpH83MyM5kZD4e7e3W1D0pWktFpR1_4FA6msr5fi89FwtpxE/s400/P1060665a.jpg</image:loc></image:image>
   <image:image><image:loc>https://www.justhalloweencrafts.com/img/b/R29vZ2xl/AVvXsEgjtuQpejZo3UR2U5_62aZMEkUapr1kWnF3wggHs1y6S9lFJJCaiznTzB8AsLn3vrgQm4g8auaDeS5FHVqR-PefX7BAC1Jy7mWsaJDWMEuBFzd8Z_1hhRc2o7YVTORq4ApM8kYwQl6_HQA/s400/P1060667a.jpg</image:loc></image:image>
@@ -929,7 +934,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CostumeAccessories</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftKits</loc>
@@ -937,19 +942,19 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftTutorial</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftsforKids</loc>
-  <lastmod>2026-11-04</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CutoutsandSilhouettes</loc>
-  <lastmod>2026-11-04</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Decorations</loc>
-  <lastmod>2026-11-04</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Fantasy</loc>
@@ -957,11 +962,11 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/FeltandFabricCrafts</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/FreePrintables</loc>
-  <lastmod>2026-10-29</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/HalloweenFood</loc>
@@ -989,7 +994,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Pumpkins</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Quotations</loc>
@@ -1009,11 +1014,11 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Witches</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Wizards</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-05</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Wreaths</loc>
