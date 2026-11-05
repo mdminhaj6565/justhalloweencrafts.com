@@ -6,4 +6,4 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-On 2 Nov 2026 all 6 requests went through: the new fairytale pumpkin article and the five pages changed that day (cloak without a pattern, hooded cloak, hollow out a pumpkin, pumpkin fairy house, carved pumpkin last longer). Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.
+On 5 Nov 2026 all 7 requests went through: the new pointed hood article, the Friday the 13th article (published 4 Nov) and the five pages changed that day (no-carve pumpkin ideas, free printable Halloween crafts, hood for a cloak, hooded cloak, witch hat). Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.
