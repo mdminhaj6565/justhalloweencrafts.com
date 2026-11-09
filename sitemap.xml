@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-11-07</lastmod>
+  <lastmod>2026-11-09</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-11-07</lastmod>
+  <lastmod>2026-11-09</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/11/how-to-put-fake-blood-on-clothes</loc>
+  <lastmod>2026-11-09</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-11-how-to-put-fake-blood-on-clothes.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/11/how-to-line-a-cloak-or-cape</loc>
@@ -66,7 +71,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/10/how-to-make-fake-blood</loc>
-  <lastmod>2026-10-29</lastmod>
+  <lastmod>2026-11-09</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-10-how-to-make-fake-blood.jpg</image:loc></image:image>
  </url>
  <url>
@@ -396,7 +401,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2016/03/luna-lovegood-quotes-books-harry-potter</loc>
-  <lastmod>2026-10-11</lastmod>
+  <lastmod>2026-11-09</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s400/Evanna-Lynch-Luna-Lovegood-Harry-Potter.jpg</image:loc></image:image>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s400/756201901_fc8c7d4d34_o.jpg</image:loc></image:image>
  </url>
@@ -407,7 +412,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2016/02/severus-snape-quotes-for-halloween</loc>
-  <lastmod>2026-10-11</lastmod>
+  <lastmod>2026-11-09</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s400/severus-snape-always.jpg</image:loc></image:image>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s400/bottle-fame-brew-glory-severus-snape.jpg</image:loc></image:image>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/s640/the-mind-not-a-book-severus-snape.jpg</image:loc></image:image>
@@ -939,7 +944,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CostumeAccessories</loc>
-  <lastmod>2026-11-07</lastmod>
+  <lastmod>2026-11-09</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftKits</loc>
@@ -963,7 +968,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Fantasy</loc>
-  <lastmod>2026-11-02</lastmod>
+  <lastmod>2026-11-09</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/FeltandFabricCrafts</loc>
@@ -1003,7 +1008,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Quotations</loc>
-  <lastmod>2026-10-11</lastmod>
+  <lastmod>2026-11-09</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/SkeletonsandSkulls</loc>
@@ -1019,11 +1024,11 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Witches</loc>
-  <lastmod>2026-11-05</lastmod>
+  <lastmod>2026-11-09</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Wizards</loc>
-  <lastmod>2026-11-05</lastmod>
+  <lastmod>2026-11-09</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Wreaths</loc>
@@ -1035,7 +1040,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/Zombies</loc>
-  <lastmod>2026-10-29</lastmod>
+  <lastmod>2026-11-09</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/p/about-marie</loc>
