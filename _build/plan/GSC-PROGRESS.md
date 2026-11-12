@@ -6,4 +6,4 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-On 9 Nov 2026 all 6 requests went through: the new article on putting fake blood on clothes and the five pages changed that day (fake blood guide, Snape quotes, Luna Lovegood quotes, last-minute DIY costumes, sheet ghost costume). Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.
+On 12 Nov 2026 all 6 requests went through: the pinecone crafts article (published 10 Nov) and the five pages changed that day (hollow out a pumpkin, wire wreath frame, paper plate masks, free printable Halloween crafts, witch hat). Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.

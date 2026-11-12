@@ -60,7 +60,7 @@
 | R4 | done 2026-10-15 | /2015/06/pumpkin-trick-or-treat-bag-felt-pattern | "pumpkin bag sewing pattern" ranks below the top results | Measurements, sewing steps, lining, no-sew option |
 | R5 | done 2026-10-12 | /2018/12/perler-bead-spider-web | Search Console demand (numbers in the report doc) | Title/description, ironing tips, variations |
 | R6 | done 2026-10-12 | /2017/11/hobbit-feet-cookies | "cookies with feet" ranks below the top results | Title with "feet cookies", decorating tips, make-ahead notes |
-| R7 | planned (next Thursday run) | /2017/01/how-hollow-pumpkin-halloween | Search Console demand (numbers in the report doc) | Content only until 2026-11-08 (title changed 2026-10-11); then retitle if CTR still 0 |
+| R7 | done 2026-11-12 | /2017/01/how-hollow-pumpkin-halloween | Search Console demand (numbers in the report doc) | Content only until 2026-11-08 (title changed 2026-10-11); then retitle if CTR still 0 |
 | R8 | done 2026-10-15 | /2015/04/sugar-skull-perler-beads-pattern | Search Console demand (numbers in the report doc) | Title/description, pattern size, color guide |
 | R9 | done 2026-10-29 | /2016/09/free-no-trick-treating-signs | Search Console demand (numbers in the report doc) | Usage tips, printing tips, FAQ |
 | R10 | planned | /2016/09/quick-easy-halloween-cupcake-ideas | Search Console demand (numbers in the report doc) | More ideas, decorating tips |
@@ -68,7 +68,7 @@
 | R12 | done 2026-11-09 | /2016/03/luna-lovegood-quotes-books-harry-potter | Low CTR on "luna lovegood lines" / "luna quotes" | Retest title and description once the 28-day lock ends |
 | R13 | done 2026-10-19 | /2016/05/halloween-foam-craft-kits-kids | "halloween foam craft kits" ranks just below the top results | Title/description, what to look for in a kit, FAQ |
 | R14 | planned (after 2026-11-23) | /2026/10/how-to-make-fake-blood | Many impressions, low CTR; main query "how to make fake blood" ranks just below the top results (numbers in the report doc) | Retest title and description once 28 days have passed since it was published |
-| R15 | planned (next Thursday run; 28-day lock ended 2026-11-08) | /2015/11/how-to-make-wire-wreath-frame-from | "wire wreath frame" / "wire wreath base" impressions rank below the top results | Content only until 2026-11-08; then retitle toward "wire wreath frame" if CTR stays low |
+| R15 | done 2026-11-12 | /2015/11/how-to-make-wire-wreath-frame-from | "wire wreath frame" / "wire wreath base" impressions rank below the top results | Content only until 2026-11-08; then retitle toward "wire wreath frame" if CTR stays low |
 | R16 | done 2026-11-05 | /2026/10/no-carve-pumpkin-decorating-ideas | Ranks just below the first page for its main query (numbers in the report doc); still relevant for autumn and Thanksgiving | Autumn/Thanksgiving section, direct answers under H2s, FAQ |
 
 ## Title/description change log
@@ -86,3 +86,4 @@
 | 2026-11-02 | Cloak without a pattern, hollow out a pumpkin, pumpkin fairy house, hooded cloak, carved pumpkin last longer | Content only (Search Console run): quick answers, FAQ, links to the new fairytale pumpkin article and the circle cloak comparison; titles unchanged because of the 28-day rule | — |
 | 2026-11-05 | No-carve pumpkin decorating ideas | Title, H1 and description rewrite toward fall and contests (Search Console run) plus quick answer, contest and Thanksgiving sections and FAQ; content only for free printable Halloween crafts (save as PDF), hood for a cloak, hooded cloak and witch hat (links to the new pointed hood article) | 2026-12-03 |
 | 2026-11-09 | Severus Snape quotes, Luna Lovegood quotes | Title and description rewrite toward "snape quotes" and "luna lovegood quotes/sayings" (Search Console run); content only for fake blood (drying-time table, dry faster, fabric section shortened to point to the new clothes guide; title locked until 2026-11-16), links to the new fake blood on clothes article from last-minute costumes and sheet ghost | 2026-12-07 |
+| 2026-11-12 | Hollow out a pumpkin, wire wreath frame, paper plate Halloween masks, free printable Halloween crafts | Title and description rewrite (Search Console run): hollow pumpkin toward "jack-o'-lantern", wire wreath frame toward "wire wreath frame / base", paper plate masks toward "5 easy designs", free printables toward "PDF" (FAQ markup fixed); content only for the witch hat (FAQ on making one out of felt) | 2026-12-10 |
