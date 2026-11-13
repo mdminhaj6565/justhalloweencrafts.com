@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://www.justhalloweencrafts.com/</loc>
-  <lastmod>2026-11-12</lastmod>
+  <lastmod>2026-11-13</lastmod>
   <image:image><image:loc>https://www.justhalloweencrafts.com/images/just-halloween-crafts-og.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/blog</loc>
-  <lastmod>2026-11-12</lastmod>
+  <lastmod>2026-11-13</lastmod>
+ </url>
+ <url>
+  <loc>https://www.justhalloweencrafts.com/2026/11/how-to-make-a-kids-cape</loc>
+  <lastmod>2026-11-13</lastmod>
+  <image:image><image:loc>https://www.justhalloweencrafts.com/images/cards/2026-11-how-to-make-a-kids-cape.jpg</image:loc></image:image>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/2026/11/pinecone-halloween-crafts</loc>
@@ -949,7 +954,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CostumeAccessories</loc>
-  <lastmod>2026-11-12</lastmod>
+  <lastmod>2026-11-13</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftKits</loc>
@@ -961,7 +966,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CraftsforKids</loc>
-  <lastmod>2026-11-12</lastmod>
+  <lastmod>2026-11-13</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/CutoutsandSilhouettes</loc>
@@ -977,7 +982,7 @@
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/FeltandFabricCrafts</loc>
-  <lastmod>2026-11-12</lastmod>
+  <lastmod>2026-11-13</lastmod>
  </url>
  <url>
   <loc>https://www.justhalloweencrafts.com/search/label/FreePrintables</loc>
