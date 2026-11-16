@@ -6,4 +6,4 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-On 12 Nov 2026 all 6 requests went through: the pinecone crafts article (published 10 Nov) and the five pages changed that day (hollow out a pumpkin, wire wreath frame, paper plate masks, free printable Halloween crafts, witch hat). Nothing is pending now. The next Search Console run adds new or changed URLs here only if the quota runs out.
+Updated by the 16 Nov 2026 run (see the report doc Changelog for which requests went through).
