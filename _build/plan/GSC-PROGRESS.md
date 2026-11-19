@@ -6,4 +6,4 @@ records them in the **GSC trend** tab of the private report doc "justhalloweencr
 
 ## Pending indexing requests
 
-Updated by the 16 Nov 2026 run (see the report doc Changelog for which requests went through).
+Updated by the 19 Nov 2026 run (see the report doc Changelog for which requests went through).
